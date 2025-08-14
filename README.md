@@ -1,1 +1,1 @@
-# customer_segmentation_using_rfm_kmeans_clustering
+# Customer Segmentation Using RFM and  K-means Clustering
