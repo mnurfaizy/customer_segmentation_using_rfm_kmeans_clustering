@@ -25,9 +25,48 @@ Reinforces the need for value-based customer segmentation, so the business can t
 Following RFM Scoring and K-Means Clustering, we identified a total of 7 customer segments — 4 clusters for non-outlier data and 3 clusters for outliers — each with tailored strategies and actionable plans.
 
 ### Non-Outlier Clusters
-1. Cluster 0 – Dormant Shoppers
-
-Customers who have not purchased in a long time, shop infrequently, and spend low amounts overall. They are inactive and require re-engagement to prevent churn.
+1. Cluster 0 – Dormant Shoppers  
+Customers who have not purchased in a long time, shop infrequently, and spend low amounts overall. They are inactive and require re-engagement to prevent churn.  
 Action Plan: Reactivation campaigns via reminder emails, limited-time offers, and exclusive discounts to encourage a return purchase.
+
+2. Cluster 1 – Active Low-to-Mid Spenders  
+Customers who shop relatively recently and regularly, though spending remains modest. They represent consistent, steady-value customers with growth potential.  
+Action Plan: Encourage higher spending through personalized product recommendations, bundle deals, and loyalty point multipliers.
+
+3. Cluster 2 – At-Risk Buyers  
+Customers with declining engagement, low purchase frequency, and reduced spending. They may be on the verge of churning.  
+Action Plan: Deploy targeted win-back initiatives, such as personalized offers, satisfaction surveys, and reminders highlighting new arrivals.
+
+4. Cluster 3 – High-Value Loyal Customers  
+Frequent, high-spending, and recently active buyers who are highly valuable to the business.  
+Action Plan: Retain and nurture loyalty with reward programs, early product access, and personalized services.
+
+### Outlier Clusters
+1. Cluster -1 – Big-Spend One-Time Shoppers
+Recently made a high-value purchase but with very low purchase frequency; likely impulse buyers.  
+Action Plan: Run reactivation campaigns with targeted reminders, time-limited discounts, and curated product suggestions.
+
+2. Cluster -2 – Emerging High-Potential Buyers
+Recent high-value purchases with moderate frequency, showing strong buying power and high engagement potential.
+Action Plan: Foster repeat purchases through tiered promotions, loyalty incentives, and product education.
+
+3. Cluster -3 – Super VIPs
+Elite customers with extremely high purchase frequency, exceptionally high spend, and recent transactions. They generate disproportionate revenue.  
+Action Plan: Offer VIP treatment through exclusive programs, private events, and premium benefits.
+
+## Conclusion
+1. Customer Segmentation with RFM & Clustering  
+Customers were segmented into 7 actionable groups, covering both typical purchase patterns and extreme outliers.
+
+2. Deep Behavioral Insights  
+Segmentation revealed clear distinctions in recency, frequency, and monetary value, identifying customers from loyal high spenders to low-value dormant users.
+
+3. Data-Driven Strategy Foundation  
+The results enable targeted marketing, personalized retention efforts, and effective reactivation campaigns.
+
+4. Value Preservation for Outliers  
+Outliers were not discarded but analyzed separately, maintaining model accuracy while capturing high-impact customer value.
+
+
 
 
